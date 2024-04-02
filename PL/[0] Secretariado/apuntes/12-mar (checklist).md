@@ -42,7 +42,7 @@
     - [ ] falta el "flujo" de contar las cosas, el hilo argumental.
 	- [x] ofertante y cliente en definiciones.
 	- [x] funcionalidades, tarificación (no tienen mucho sentido aquí?)
-	- [x] contar de una forma más natural para definir el proceso de la operativa: ya q no se parte de una operativ estable por el clien respecto a los requisitos y la perat especif, hemos realiza un estudio para proponer cuál podría ser la operativ de func que mejor **pudiera** ajust a las necesidad del clien y permit el desarrol de una **app** que de soporte a esa operat con una automat ...
+	- [x] contar de una forma más natural para definir el proceso de la operativa: ya q no se parte de una operativ estable por el clien respecto a los requisitos y la perat especif, hemos realiza un estudio para proponer cuál podría ser la operativ de func que mejor pudiera ajust a las necesidad del clien y permit el desarrol de una app que de soporte a esa operat con una automat ...
     - [ ] NOSOTROS SOMOS UNA CONSULTORA, no la propia empresa; dejar clara la operativa.
     - [x] hablar de las herramientas utilizadas: para diseñ el proc con las mayor garant se han realiz diagram de hist de usur que tratan de sintet los puntos más relevant en el proceso de la interacc de los roles principales del proc. dentro del proc se han ident dos líne princip, el ofertant... y por otr lad el cliente... y se ha trabajad en paralel ambos escenari.
     - [ ] apoyándose en el storibori, se desarrolla la "operativa".

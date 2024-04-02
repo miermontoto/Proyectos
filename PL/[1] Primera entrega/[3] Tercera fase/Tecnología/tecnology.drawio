@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2024-02-28T18:11:00.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zNigJ25eggqAvwljOfgq" version="23.1.8" type="device">
+  <diagram name="Página-1" id="yT59wHIXK884qqUkOz6e">
+    <mxGraphModel dx="1195" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t42lyITQkFEhERBuqM0B-4" value="App" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t42lyITQkFEhERBuqM0B-5" target="t42lyITQkFEhERBuqM0B-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="t42lyITQkFEhERBuqM0B-5" target="t42lyITQkFEhERBuqM0B-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-5" value="Flutter" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/640px-Flutter_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="260" y="90" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t42lyITQkFEhERBuqM0B-4" target="t42lyITQkFEhERBuqM0B-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-7" value="Construido con" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t42lyITQkFEhERBuqM0B-6">
+          <mxGeometry x="-0.3333" y="-2" relative="1" as="geometry">
+            <mxPoint x="17" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-8" value="Android App" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/f/fc/Android_logo_%282014-2019%29.png;" vertex="1" parent="1">
+          <mxGeometry x="394" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-9" value="iOS App" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1200px-IOS_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="394" y="150" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-12" value="Sensor entrada&lt;br&gt;(Wifi/Bluetooth)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Sensor.svg;" vertex="1" parent="1">
+          <mxGeometry x="72" y="410" width="68" height="50.28" as="geometry" />
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-14" value="Estación de carga&lt;br&gt;(Zigbee)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Sensor.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="390" width="68" height="50.28" as="geometry" />
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-15" value="Hub Zigbee con Capacidades WiFi/Bluetooth" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/wiring_hub.svg;" vertex="1" parent="1">
+          <mxGeometry x="266.47" y="510" width="73.53" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.049;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t42lyITQkFEhERBuqM0B-15" target="t42lyITQkFEhERBuqM0B-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.029;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t42lyITQkFEhERBuqM0B-15" target="t42lyITQkFEhERBuqM0B-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="200" as="sourcePoint" />
+            <mxPoint x="100" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-19" value="Solicita entrar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t42lyITQkFEhERBuqM0B-18">
+          <mxGeometry x="-0.28" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="t42lyITQkFEhERBuqM0B-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="500" as="sourcePoint" />
+            <mxPoint x="303.23078947368435" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-24" value="Obtiene datos de las solicitudes de entrada/salida&lt;br&gt;y carga de vehículos, y las envía al servidor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t42lyITQkFEhERBuqM0B-21">
+          <mxGeometry x="-0.1083" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-22" value="AWS Cloud" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aws_cloud;" vertex="1" parent="1">
+          <mxGeometry x="273.23" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="t42lyITQkFEhERBuqM0B-4" target="t42lyITQkFEhERBuqM0B-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="280" as="sourcePoint" />
+            <mxPoint x="350" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="10" />
+              <mxPoint x="510" y="10" />
+              <mxPoint x="510" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t42lyITQkFEhERBuqM0B-27" value="Consulta al servidor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t42lyITQkFEhERBuqM0B-26">
+          <mxGeometry x="0.8442" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

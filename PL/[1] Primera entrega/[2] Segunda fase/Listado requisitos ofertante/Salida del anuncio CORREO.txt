@@ -1,0 +1,28 @@
+**********************
+* ANUNCIO 0019829290 *
+**********************
+Calle: NombreCalle;Nº 01;CP;Barrio;Ciudad;Provincia
+Características
+	Dimensiones: X m largo y Y m ancho
+	Altura: Z m alto
+Precio
+	Día: x€
+	Hora: y€
+	Incremento por cada servicio: 10%
+Disponiblidad
+	[L-V]Mes:Junio;09:00-13:30
+Tipo plaza: (c)ubierta
+Accesibilidad
+	Rampas de acceso a minusválidos: SI
+	Rampas de acceso a minusválidos: SI
+	¿Cercana a la entrada?: NO
+	¿Ascensores accesibles?: NO
+	¿Hay más de una planta?: NO	
+Seguridad
+	Alarma de seguridad (incr. 10% sobre precio base)
+Servicio adicional
+	-
+Photos
+	Img01
+	Img02
+ACEPTAR - CANCELAR
