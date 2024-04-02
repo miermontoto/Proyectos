@@ -1,0 +1,81 @@
+# carencias
+- [x] portada:
+	- [x] tiene que ser un documento técnico.
+	- [x] control de versiones.
+	- [x] autores.
+	- [x] localización.
+	- [x] *ver borrador de las actas.*
+	- [x] PM2
+- [x] índice:
+	- [x] numerar apartados.
+	- [x] índice de figuras, de tablas.
+- [ ] introducción:
+	- [x] el estilo de redacción tiene que ser *técnico*.
+	- [ ] hay que desarrollarlo más.
+	- [x] ilegible, mal redactado.
+	- [ ] no se introduce el contexto, ni la economía colaborativa.
+	- [x] debería ser "Introducción y antecedentes".
+- [ ] alcance:
+	- [ ] no es el verdadero alcance, el alcance verdadero no está realmente definido.
+	- [x] mal redactado.
+	- [x] "la razón de existir".
+	- [x] no explicar qué es una memoria, ir más al grano.
+	- [x] último párrafo -> catástrofe.
+- [x] definiciones:
+	- [x] orden alfabético.
+	- [x] no se sabe si son acrónimos o definiciones.
+	- [x] enfocar hacia palabras clave: propietario, usuario, sistema de acceso, ofertante... palabras dentro del dominio, menos entrar al detalle.
+	- [x] no puede ser subapartado de introducción.
+- [ ] normas y referencias:
+	- [x] mejor introducción al apartado.
+	- [ ] poner en contexto y revisar redacción.
+	- [ ] más roleplay.
+	- [x] citar las leyes.
+	- [x] reformar, redactar: aunque el rol de la aplicación es de actuar como interm entre los prop de las plaza y los usua y por lo tant las caract de las plaz están fuera de nuestro alcan, se conside neces hacer una compro del cumplim de estos requisitos.
+	- [x] estas normativas tienen que ser una reflx para ver si tiene que incluir en el proce de nuestr diseño.
+	- [x] descargar responsabi en el propietario.
+	- [ ] las normas presenten deben influir en el desarrollo y estar relacionadas.
+- [ ] requisitos iniciales:
+	- [x] "no está mal", aunque debería llamarse "descripción operativa del proceso". (apuntado→modelo de procesos propuestos para el proyecto)
+	- [x] parte del contenido debería estar en la introducción (aprovechar).
+	- [ ] otras cosas descolocadas, sin orden
+    - [ ] falta el "flujo" de contar las cosas, el hilo argumental.
+	- [x] ofertante y cliente en definiciones.
+	- [x] funcionalidades, tarificación (no tienen mucho sentido aquí?)
+	- [x] contar de una forma más natural para definir el proceso de la operativa: ya q no se parte de una operativ estable por el clien respecto a los requisitos y la perat especif, hemos realiza un estudio para proponer cuál podría ser la operativ de func que mejor **pudiera** ajust a las necesidad del clien y permit el desarrol de una **app** que de soporte a esa operat con una automat ...
+    - [ ] NOSOTROS SOMOS UNA CONSULTORA, no la propia empresa; dejar clara la operativa.
+    - [x] hablar de las herramientas utilizadas: para diseñ el proc con las mayor garant se han realiz diagram de hist de usur que tratan de sintet los puntos más relevant en el proceso de la interacc de los roles principales del proc. dentro del proc se han ident dos líne princip, el ofertant... y por otr lad el cliente... y se ha trabajad en paralel ambos escenari.
+    - [ ] apoyándose en el storibori, se desarrolla la "operativa".
+    - [x] se concluye con un resumen de funcionalidades, casi como lo que tenemos al principio de "Funcionalidades".
+	- [ ] hilar las cosas, lo importante es mantener la relación entre las cosas.
+	- [x] primero diagrama, luego explicación.
+	- [ ] "estos storiboars son diferentes".
+- [ ] hipótesis y restricciones:
+	- [ ] "no me encaja ni como hipótesis ni como restricciones."
+	- [ ] información duplicada con otros apartados.
+	- [ ] la restricción más clara era que los párkings están limitados a aquellos parkings que tengan salida peatonal → no está reflejada.
+	- [ ] antecedentes? no se mencionan sistemas que se parezcan a lo que se plantea.
+	- [ ] cosas irrelevantes.
+- [ ] valoración de alternativas:
+	- [x] falta introducción al capítulo.
+	- [x] explicar qué es una valoración de alternativas.
+	- [x] cuidar el estilo visual del documento (títulos mismatching).
+	- [x] introducción, criterios a seguir, alternativas, valoralas y tomar decisión.
+	- [x] entrada y salida: nada de storyboards → tabla que compare visualmente las características principales de cada una.
+	- [ ] puntos de carga:
+		- [x] dejar de introducir constantemente qué es una valoración de alternativas.
+		- [x] falta acrónimo AIO ¿?
+		- [ ] introducir tecnología primero (qué son, protocolos, en qué nos afecta).
+		- [x] sobrecoste fijo??
+	- [ ] alojamiento:
+		- [x] otro nombre; infraestructura tecnológica ¿?
+		- [ ] mala redacción.
+		- [ ] cloud a calzador, mejor introducción.
+		- [ ] justificar la propia nube, no justificar la elección de la nube en sí.
+		- [ ] para los precios, coger como referencia uno (por ejemplo AWS).
+- [ ] descripción de la solución propuesta:
+	- [ ] Flutter dentro de análisis de alternativas.
+	- [ ] no está bien transmitido cómo cuadra todo esto.
+	- [ ] expresar más coherentemente el sistema completo en sí.
+	- [ ] qué mas hay que desarrollar? el hub, programación necesaria,
+	- [ ] meter bocetos en la descripción (OPCIONAL)
